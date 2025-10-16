@@ -44,3 +44,32 @@ A unidade curricular foca-se na compreensão dos **métodos, tecnologias e desaf
 
 ## 📂 Estrutura do Repositório
 
+
+
+
+
+---
+
+## 🧑‍💻 Autor
+
+**Kael Sá**  
+Back-end Engineer @ Insight – Institute Piaget Research Center  
+Mestrado em Engenharia Informática e Tecnologia Web (UAb)  
+Especialista em **Java** e interessado em **Edge AI** e **Integração de Sistemas**  
+
+📧 [2501470@estudante.uab.pt](mailto:2501470@estudante.uab.pt) 
+🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kael-loureiro-schossler-de-s%C3%A1-7b2096232 ))  
+
+---
+
+## 📜 Licença
+
+Este repositório é de uso académico e pessoal.  
+Os conteúdos aqui presentes não devem ser reproduzidos ou distribuídos sem autorização.
+
+---
+
+> _Universidade Aberta (UAb) – Mestrado em Engenharia Informática e Tecnologia Web_  
+> _Unidade Curricular: Integração de Sistemas (2025/2026)_
+
+
