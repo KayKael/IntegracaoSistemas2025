@@ -58,7 +58,8 @@ Mestrado em Engenharia Informática e Tecnologia Web (UAb)
 Especialista em **Java** e interessado em **Edge AI** e **Integração de Sistemas**  
 
 📧 [2501470@estudante.uab.pt](mailto:2501470@estudante.uab.pt) 
-🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kael-loureiro-schossler-de-s%C3%A1-7b2096232 ))  
+
+🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kael-loureiro-schossler-de-s%C3%A1-7b2096232 )  
 
 ---
 
