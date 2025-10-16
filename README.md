@@ -34,11 +34,7 @@ A unidade curricular foca-se na compreensão dos **métodos, tecnologias e desaf
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagem:** Java  
-- **Frameworks e APIs:** Spring Boot, REST, SOAP  
-- **Integração:** JSON, XML, Message Queues  
-- **Contêineres:** Docker (quando aplicável)  
-- **Outros:** Edge AI concepts, Microservices, GitHub Actions  
+-
 
 ---
 
